@@ -9,7 +9,7 @@
         "wearify-frontend": {
             "projectType": "application",
             "schematics": {
-                "@schematics/angular:component": {
+            "@schematics/angular:component": {
                     "standalone": true,
                     "changeDetection": "OnPush",
                     "style": "scss",
@@ -44,6 +44,7 @@
                             }
                         ],
                         "styles": [
+                            "src/material-theme.scss",
                             "src/styles.css"
                         ]
                     },
