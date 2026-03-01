@@ -46,6 +46,8 @@ Thumbs.db
 # AI related files
 .ai/*
 .mcp.json
+.claude/*
+.agents/*
 
 # Guidelines
 best-practices.md
