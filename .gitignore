@@ -45,3 +45,7 @@ Thumbs.db
 
 # AI related files
 .ai/*
+
+# Guidelines
+best-practices.md
+llms-full.txt
